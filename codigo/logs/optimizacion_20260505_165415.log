@@ -1,0 +1,129 @@
+[2026-05-05 16:54:15] =======================================================
+[2026-05-05 16:54:15] NUEVA EJECUCIÓN
+[2026-05-05 16:54:15] Material          : PETG
+[2026-05-05 16:54:15] Perfil            : Estético
+[2026-05-05 16:54:15] Tamaño población  : 50
+[2026-05-05 16:54:15] Generaciones      : 100
+[2026-05-05 16:54:15] Tasa cruce        : 0.8
+[2026-05-05 16:54:15] Tasa mutación     : 0.1
+[2026-05-05 16:54:15] Torneo K          : 3
+[2026-05-05 16:54:15] --- Evolución ---
+[2026-05-05 16:54:15] Gen 0001 | Mejor fitness: 0.765845 | Promedio: 0.691898
+[2026-05-05 16:54:15] Gen 0002 | Mejor fitness: 0.779244 | Promedio: 0.732387
+[2026-05-05 16:54:15] Gen 0003 | Mejor fitness: 0.779244 | Promedio: 0.752077
+[2026-05-05 16:54:15] Gen 0004 | Mejor fitness: 0.784395 | Promedio: 0.763090
+[2026-05-05 16:54:15] Gen 0005 | Mejor fitness: 0.803615 | Promedio: 0.772223
+[2026-05-05 16:54:15] Gen 0006 | Mejor fitness: 0.803615 | Promedio: 0.780873
+[2026-05-05 16:54:15] Gen 0007 | Mejor fitness: 0.806242 | Promedio: 0.790422
+[2026-05-05 16:54:15] Gen 0008 | Mejor fitness: 0.808680 | Promedio: 0.798066
+[2026-05-05 16:54:15] Gen 0009 | Mejor fitness: 0.808680 | Promedio: 0.802691
+[2026-05-05 16:54:15] Gen 0010 | Mejor fitness: 0.808680 | Promedio: 0.804087
+[2026-05-05 16:54:15] Gen 0011 | Mejor fitness: 0.808845 | Promedio: 0.805559
+[2026-05-05 16:54:15] Gen 0012 | Mejor fitness: 0.809443 | Promedio: 0.806577
+[2026-05-05 16:54:15] Gen 0013 | Mejor fitness: 0.810687 | Promedio: 0.808100
+[2026-05-05 16:54:15] Gen 0014 | Mejor fitness: 0.812040 | Promedio: 0.808685
+[2026-05-05 16:54:15] Gen 0015 | Mejor fitness: 0.812040 | Promedio: 0.809224
+[2026-05-05 16:54:15] Gen 0016 | Mejor fitness: 0.812117 | Promedio: 0.810367
+[2026-05-05 16:54:15] Gen 0017 | Mejor fitness: 0.812176 | Promedio: 0.810686
+[2026-05-05 16:54:15] Gen 0018 | Mejor fitness: 0.813172 | Promedio: 0.810850
+[2026-05-05 16:54:15] Gen 0019 | Mejor fitness: 0.813172 | Promedio: 0.811574
+[2026-05-05 16:54:15] Gen 0020 | Mejor fitness: 0.813886 | Promedio: 0.811939
+[2026-05-05 16:54:15] Gen 0021 | Mejor fitness: 0.813886 | Promedio: 0.812029
+[2026-05-05 16:54:15] Gen 0022 | Mejor fitness: 0.814292 | Promedio: 0.812646
+[2026-05-05 16:54:15] Gen 0023 | Mejor fitness: 0.814686 | Promedio: 0.812907
+[2026-05-05 16:54:15] Gen 0024 | Mejor fitness: 0.814686 | Promedio: 0.812559
+[2026-05-05 16:54:15] Gen 0025 | Mejor fitness: 0.814686 | Promedio: 0.813299
+[2026-05-05 16:54:15] Gen 0026 | Mejor fitness: 0.814787 | Promedio: 0.813931
+[2026-05-05 16:54:15] Gen 0027 | Mejor fitness: 0.815138 | Promedio: 0.814021
+[2026-05-05 16:54:15] Gen 0028 | Mejor fitness: 0.815396 | Promedio: 0.813848
+[2026-05-05 16:54:15] Gen 0029 | Mejor fitness: 0.815396 | Promedio: 0.814433
+[2026-05-05 16:54:15] Gen 0030 | Mejor fitness: 0.815396 | Promedio: 0.814101
+[2026-05-05 16:54:15] Gen 0031 | Mejor fitness: 0.815396 | Promedio: 0.814294
+[2026-05-05 16:54:15] Gen 0032 | Mejor fitness: 0.815448 | Promedio: 0.814368
+[2026-05-05 16:54:15] Gen 0033 | Mejor fitness: 0.815448 | Promedio: 0.814147
+[2026-05-05 16:54:15] Gen 0034 | Mejor fitness: 0.815448 | Promedio: 0.814743
+[2026-05-05 16:54:15] Gen 0035 | Mejor fitness: 0.815448 | Promedio: 0.814685
+[2026-05-05 16:54:15] Gen 0036 | Mejor fitness: 0.815448 | Promedio: 0.814749
+[2026-05-05 16:54:15] Gen 0037 | Mejor fitness: 0.815448 | Promedio: 0.814476
+[2026-05-05 16:54:15] Gen 0038 | Mejor fitness: 0.815468 | Promedio: 0.814647
+[2026-05-05 16:54:15] Gen 0039 | Mejor fitness: 0.815469 | Promedio: 0.815015
+[2026-05-05 16:54:15] Gen 0040 | Mejor fitness: 0.815558 | Promedio: 0.814687
+[2026-05-05 16:54:15] Gen 0041 | Mejor fitness: 0.815558 | Promedio: 0.814687
+[2026-05-05 16:54:15] Gen 0042 | Mejor fitness: 0.815574 | Promedio: 0.814899
+[2026-05-05 16:54:15] Gen 0043 | Mejor fitness: 0.815574 | Promedio: 0.814722
+[2026-05-05 16:54:15] Gen 0044 | Mejor fitness: 0.815574 | Promedio: 0.814770
+[2026-05-05 16:54:15] Gen 0045 | Mejor fitness: 0.815574 | Promedio: 0.814853
+[2026-05-05 16:54:15] Gen 0046 | Mejor fitness: 0.815575 | Promedio: 0.814659
+[2026-05-05 16:54:15] Gen 0047 | Mejor fitness: 0.815575 | Promedio: 0.814587
+[2026-05-05 16:54:15] Gen 0048 | Mejor fitness: 0.815581 | Promedio: 0.814981
+[2026-05-05 16:54:15] Gen 0049 | Mejor fitness: 0.815581 | Promedio: 0.814807
+[2026-05-05 16:54:15] Gen 0050 | Mejor fitness: 0.815581 | Promedio: 0.814948
+[2026-05-05 16:54:15] Gen 0051 | Mejor fitness: 0.815581 | Promedio: 0.814569
+[2026-05-05 16:54:15] Gen 0052 | Mejor fitness: 0.815582 | Promedio: 0.814612
+[2026-05-05 16:54:15] Gen 0053 | Mejor fitness: 0.815582 | Promedio: 0.814858
+[2026-05-05 16:54:15] Gen 0054 | Mejor fitness: 0.815582 | Promedio: 0.814355
+[2026-05-05 16:54:15] Gen 0055 | Mejor fitness: 0.815582 | Promedio: 0.815221
+[2026-05-05 16:54:15] Gen 0056 | Mejor fitness: 0.815582 | Promedio: 0.814656
+[2026-05-05 16:54:15] Gen 0057 | Mejor fitness: 0.815582 | Promedio: 0.815008
+[2026-05-05 16:54:15] Gen 0058 | Mejor fitness: 0.815582 | Promedio: 0.814318
+[2026-05-05 16:54:15] Gen 0059 | Mejor fitness: 0.815582 | Promedio: 0.814628
+[2026-05-05 16:54:15] Gen 0060 | Mejor fitness: 0.815582 | Promedio: 0.814389
+[2026-05-05 16:54:15] Gen 0061 | Mejor fitness: 0.815582 | Promedio: 0.814823
+[2026-05-05 16:54:15] Gen 0062 | Mejor fitness: 0.815616 | Promedio: 0.815150
+[2026-05-05 16:54:15] Gen 0063 | Mejor fitness: 0.815616 | Promedio: 0.814579
+[2026-05-05 16:54:15] Gen 0064 | Mejor fitness: 0.815616 | Promedio: 0.814471
+[2026-05-05 16:54:15] Gen 0065 | Mejor fitness: 0.816500 | Promedio: 0.815120
+[2026-05-05 16:54:15] Gen 0066 | Mejor fitness: 0.816500 | Promedio: 0.814854
+[2026-05-05 16:54:15] Gen 0067 | Mejor fitness: 0.816558 | Promedio: 0.815030
+[2026-05-05 16:54:15] Gen 0068 | Mejor fitness: 0.816558 | Promedio: 0.815379
+[2026-05-05 16:54:15] Gen 0069 | Mejor fitness: 0.816558 | Promedio: 0.815315
+[2026-05-05 16:54:15] Gen 0070 | Mejor fitness: 0.816558 | Promedio: 0.815312
+[2026-05-05 16:54:15] Gen 0071 | Mejor fitness: 0.816558 | Promedio: 0.815614
+[2026-05-05 16:54:15] Gen 0072 | Mejor fitness: 0.816558 | Promedio: 0.815779
+[2026-05-05 16:54:15] Gen 0073 | Mejor fitness: 0.816559 | Promedio: 0.815886
+[2026-05-05 16:54:15] Gen 0074 | Mejor fitness: 0.816559 | Promedio: 0.816098
+[2026-05-05 16:54:15] Gen 0075 | Mejor fitness: 0.816559 | Promedio: 0.815523
+[2026-05-05 16:54:15] Gen 0076 | Mejor fitness: 0.816559 | Promedio: 0.815582
+[2026-05-05 16:54:15] Gen 0077 | Mejor fitness: 0.816559 | Promedio: 0.815896
+[2026-05-05 16:54:15] Gen 0078 | Mejor fitness: 0.816559 | Promedio: 0.815921
+[2026-05-05 16:54:15] Gen 0079 | Mejor fitness: 0.816559 | Promedio: 0.816168
+[2026-05-05 16:54:15] Gen 0080 | Mejor fitness: 0.816559 | Promedio: 0.815972
+[2026-05-05 16:54:15] Gen 0081 | Mejor fitness: 0.816559 | Promedio: 0.815691
+[2026-05-05 16:54:15] Gen 0082 | Mejor fitness: 0.816559 | Promedio: 0.815778
+[2026-05-05 16:54:15] Gen 0083 | Mejor fitness: 0.816559 | Promedio: 0.815746
+[2026-05-05 16:54:15] Gen 0084 | Mejor fitness: 0.816559 | Promedio: 0.815738
+[2026-05-05 16:54:15] Gen 0085 | Mejor fitness: 0.816559 | Promedio: 0.815840
+[2026-05-05 16:54:15] Gen 0086 | Mejor fitness: 0.816559 | Promedio: 0.815996
+[2026-05-05 16:54:15] Gen 0087 | Mejor fitness: 0.816559 | Promedio: 0.815882
+[2026-05-05 16:54:15] Gen 0088 | Mejor fitness: 0.816559 | Promedio: 0.815720
+[2026-05-05 16:54:15] Gen 0089 | Mejor fitness: 0.816559 | Promedio: 0.815896
+[2026-05-05 16:54:15] Gen 0090 | Mejor fitness: 0.816559 | Promedio: 0.815633
+[2026-05-05 16:54:15] Gen 0091 | Mejor fitness: 0.816559 | Promedio: 0.815758
+[2026-05-05 16:54:15] Gen 0092 | Mejor fitness: 0.816559 | Promedio: 0.815566
+[2026-05-05 16:54:15] Gen 0093 | Mejor fitness: 0.816559 | Promedio: 0.815904
+[2026-05-05 16:54:15] Gen 0094 | Mejor fitness: 0.816559 | Promedio: 0.815412
+[2026-05-05 16:54:15] Gen 0095 | Mejor fitness: 0.816559 | Promedio: 0.815473
+[2026-05-05 16:54:15] Gen 0096 | Mejor fitness: 0.816559 | Promedio: 0.815827
+[2026-05-05 16:54:15] Gen 0097 | Mejor fitness: 0.816559 | Promedio: 0.815885
+[2026-05-05 16:54:15] Gen 0098 | Mejor fitness: 0.816559 | Promedio: 0.815616
+[2026-05-05 16:54:15] Gen 0099 | Mejor fitness: 0.816559 | Promedio: 0.815561
+[2026-05-05 16:54:15] Gen 0100 | Mejor fitness: 0.816559 | Promedio: 0.815176
+[2026-05-05 16:54:15] --- Resultado final ---
+[2026-05-05 16:54:15] Fitness final     : 0.816559
+[2026-05-05 16:54:15]
+[2026-05-05 16:54:15] Parámetros óptimos:
+[2026-05-05 16:54:15]   Temp. Extrusión : 235.3 °C
+[2026-05-05 16:54:15]   Temp. Cama      : 90.0 °C
+[2026-05-05 16:54:15]   Velocidad       : 33.2 mm/s
+[2026-05-05 16:54:15]   Altura de Capa  : 0.143 mm
+[2026-05-05 16:54:15]   Relleno         : 13.5 %
+[2026-05-05 16:54:15]   Ventilador      : 35.0 %
+[2026-05-05 16:54:15]   Perímetros      : 2 u
+[2026-05-05 16:54:15]
+[2026-05-05 16:54:15] Desglose fitness:
+[2026-05-05 16:54:15]   Calidad       : 0.8756
+[2026-05-05 16:54:15]   Resistencia   : 0.5879
+[2026-05-05 16:54:15]   Velocidad     : 0.7225
+[2026-05-05 16:54:15]   Ahorro        : 0.9291
+[2026-05-05 16:54:15]   Fitness       : 0.8166
+[2026-05-05 16:54:15] =======================================================
